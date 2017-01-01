@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DhakaEvents</string>
+    <string name="sign_in_text">PLEASE CHOOSE YOUR \n USERNAME AND PASSWORD</string>
+    <string name="title_activity_search">SearchActivity</string>
+</resources>
